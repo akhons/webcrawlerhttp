@@ -1,0 +1,19 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "project to learn more about http requests",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akhons/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
